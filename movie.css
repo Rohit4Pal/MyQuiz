@@ -1,0 +1,22 @@
+.question {
+  display: none;
+  margin-top:70px;
+}
+
+#view {
+  width: 500px;
+  height: 500px;
+  border: 2px solid black;
+  text-align: center;
+  margin: 0 auto;
+}
+
+li {
+  display: block;
+  height: 10px;
+  width: 50%;
+}
+
+h3 {
+  width: 100%;
+}

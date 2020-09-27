@@ -1,0 +1,43 @@
+body{
+  background-color: blanchedalmond;
+  height: 900px;
+  width:1600px;
+}
+
+h1{
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+li{
+  display: inline-block;
+  padding: 20px; 
+}
+
+.section{
+  display: inline-block;
+  margin-top: 100px;
+  margin-right: 100px;
+  margin-left: 50px;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
+
+.question{
+  display: block;
+}
+
+div{
+  flex-direction: row;
+}
+
+footer{
+  margin-top: 150px;
+  text-align: center;
+}
